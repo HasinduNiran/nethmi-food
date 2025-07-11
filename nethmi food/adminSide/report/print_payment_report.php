@@ -15,9 +15,9 @@ $sql = "
     SELECT 
         bp.bill_id,
         bp.payment_method,
-        bp.amount,
+        b.payment_amount,
         bp.card_id,
-        bp.created_at,
+        bp.created_at as payment_time,
         b.bill_time,
         b.customer_name
     FROM 
@@ -35,15 +35,15 @@ if (!empty($paymentMethod)) {
 
 // Add date range if dates are provided
 if ($startDate) {
-    $sql .= " AND DATE(bp.created_at) >= ?";
+    $sql .= " AND DATE(b.bill_time) >= ?";
 }
 
 if ($endDate) {
-    $sql .= " AND DATE(bp.created_at) <= ?";
+    $sql .= " AND DATE(b.bill_time) <= ?";
 }
 
 // Order by
-$sql .= " ORDER BY bp.created_at DESC";
+$sql .= " ORDER BY b.bill_time DESC";
 
 // Prepare the statement
 $stmt = $link->prepare($sql);
@@ -86,7 +86,7 @@ $totalAmount = 0;
 $countByMethod = [];
 
 foreach($reports as $item) {
-    $totalAmount += $item['amount'];
+    $totalAmount += $item['payment_amount'];
     
     $method = $item['payment_method'];
     if (!isset($countByMethod[$method])) {
@@ -96,7 +96,7 @@ foreach($reports as $item) {
         ];
     }
     $countByMethod[$method]['count']++;
-    $countByMethod[$method]['total'] += $item['amount'];
+    $countByMethod[$method]['total'] += $item['payment_amount'];
 }
 
 // Payment method mapping for display
@@ -222,10 +222,10 @@ $paymentMethodLabels = [
                         <td><?php echo htmlspecialchars($item['bill_id'] ?? 'N/A'); ?></td>
                         <td><?php echo htmlspecialchars($item['customer_name'] ?? 'N/A'); ?></td>
                         <td><?php echo htmlspecialchars($paymentMethodLabels[$item['payment_method']] ?? $item['payment_method']); ?></td>
-                        <td>Rs. <?php echo number_format($item['amount'], 2); ?></td>
+                        <td>Rs. <?php echo number_format($item['payment_amount'], 2); ?></td>
                         <td><?php echo htmlspecialchars($item['card_id'] != 'N/A' ? $item['card_id'] : 'N/A'); ?></td>
                         <td><?php echo date('d/m/Y H:i', strtotime($item['bill_time'])); ?></td>
-                        <td><?php echo date('d/m/Y H:i', strtotime($item['created_at'])); ?></td>
+                        <td><?php echo date('d/m/Y H:i', strtotime($item['payment_time'])); ?></td>
                     </tr>
                 <?php endforeach; ?>
                 <tr class="total-row">

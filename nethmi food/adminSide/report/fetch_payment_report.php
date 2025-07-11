@@ -27,9 +27,9 @@ try {
         SELECT 
             bp.bill_id,
             bp.payment_method,
-            bp.amount,
+            b.payment_amount,
             bp.card_id,
-            bp.created_at,
+            bp.created_at as payment_time,
             b.bill_time,
             b.customer_name
         FROM 
@@ -47,15 +47,15 @@ try {
 
     // Add date range if dates are provided
     if ($startDate) {
-        $sql .= " AND DATE(bp.created_at) >= ?";
+        $sql .= " AND DATE(b.bill_time) >= ?";
     }
     
     if ($endDate) {
-        $sql .= " AND DATE(bp.created_at) <= ?";
+        $sql .= " AND DATE(b.bill_time) <= ?";
     }
 
     // Order by
-    $sql .= " ORDER BY bp.created_at DESC";
+    $sql .= " ORDER BY b.bill_time DESC";
 
     // Prepare the statement
     $stmt = $link->prepare($sql);
@@ -113,7 +113,7 @@ try {
     $countByMethod = [];
     
     foreach($data as $item) {
-        $totalAmount += $item['amount'];
+        $totalAmount += $item['payment_amount'];
         
         $method = $item['payment_method'];
         if (!isset($countByMethod[$method])) {
@@ -123,7 +123,7 @@ try {
             ];
         }
         $countByMethod[$method]['count']++;
-        $countByMethod[$method]['total'] += $item['amount'];
+        $countByMethod[$method]['total'] += $item['payment_amount'];
     }
     
     // Add summary data

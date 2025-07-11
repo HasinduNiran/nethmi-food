@@ -312,12 +312,12 @@ $user_name = $_SESSION['username'];
             }
         }
 
-        .day-end-rep-btn{
-                padding: 5px 10px;
-                background-color: #212529;
-                color: white;
-                box-shadow: 4px 4px 1px #6c757d;
-            }
+        .day-end-rep-btn {
+            padding: 5px 10px;
+            background-color: #212529;
+            color: white;
+            box-shadow: 4px 4px 1px #6c757d;
+        }
     </style>
 </head>
 
@@ -354,6 +354,16 @@ $user_name = $_SESSION['username'];
                 <p class="report-content">Generate a report of total Inventory.</p>
                 <button class="rep_generate_btn" onclick="fetchInventoryReport()">Run Report</button>
                 <button class="rep_generate_btn" onclick="printInventoryReport()">Print Report</button>
+            </div>
+            <!-- Card Sales Report Section -->
+            <div class="report-btn-container">
+                <div class="report-heading-cont">
+                    <span class="report-name"> Sales Report</span>
+                </div>
+                <p class="report-content">Generate a comprehensive sales report with item-wise details, quantities sold, and overall revenue.</p>
+
+                <button class="rep_generate_btn" onclick="window.open('sale_report.php', '_blank')">Show</button>
+
             </div>
 
             <!-- Total Stock Report -->
@@ -450,7 +460,7 @@ $user_name = $_SESSION['username'];
                 <button class="rep_generate_btn" onclick="fetchSalesReport()">Run Report</button>
                 <button class="rep_generate_btn" onclick="printSalesReport()">Print Report</button>
             </div>
-            
+
             <!-- Product-wise Sales Report -->
             <div class="report-btn-container">
                 <div class="report-heading-cont">
@@ -466,8 +476,8 @@ $user_name = $_SESSION['username'];
                 <button class="rep_generate_btn" onclick="fetchProductSalesReport()">Run Report</button>
                 <button class="rep_generate_btn" onclick="printProductSalesReport()">Print Report</button>
             </div>
-                   <!-- Product-wise bakery Sales Report -->
-                   <div class="report-btn-container">
+            <!-- Product-wise bakery Sales Report -->
+            <div class="report-btn-container">
                 <div class="report-heading-cont">
                     <span class="report-name">Sales Item Report (Product Wise)</span>
                 </div>
@@ -1029,15 +1039,15 @@ $user_name = $_SESSION['username'];
                         })
                         .then(data => {
                             console.log('Fetched bakery sales data:', data);
-                            
+
                             if (data.error) {
                                 throw new Error(data.error);
                             }
-                            
+
                             // Access the items array from the response
                             const items = data.items || [];
                             const summary = data.summary || {};
-                            
+
                             let tableHeaders = `
                                 <th>Item ID</th>
                                 <th>Product Name</th>
@@ -1049,7 +1059,7 @@ $user_name = $_SESSION['username'];
                                 <th>Total Cost</th>
                                 <th>Profit</th>
                             `;
-                            
+
                             let tableBody = items.length === 0 ?
                                 "<tr><td colspan='9'>No bakery product sales found.</td></tr>" :
                                 items.map(item => `
@@ -1067,7 +1077,7 @@ $user_name = $_SESSION['username'];
                                         </td>
                                     </tr>
                                 `).join('');
-                                
+
                             // Add summary row if items exist
                             if (items.length > 0) {
                                 tableBody += `
@@ -1082,7 +1092,7 @@ $user_name = $_SESSION['username'];
                                     </tr>
                                 `;
                             }
-                            
+
                             $("#reportTableHead").html(tableHeaders);
                             $("#reportTableBody").html(tableBody);
                         })
@@ -1145,15 +1155,15 @@ $user_name = $_SESSION['username'];
                         })
                         .then(data => {
                             console.log('Fetched payment data:', data);
-                            
+
                             if (data.error) {
                                 throw new Error(data.error);
                             }
-                            
+
                             // Access the payments array from the response
                             const payments = data.payments || [];
                             const summary = data.summary || {};
-                            
+
                             // Payment method display mapping
                             const methodLabels = {
                                 'cash': 'Cash',
@@ -1173,7 +1183,7 @@ $user_name = $_SESSION['username'];
                                 <th>Bill Time</th>
                                 <th>Payment Time</th>
                             `;
-                            
+
                             let tableBody = payments.length === 0 ?
                                 "<tr><td colspan='7'>No payment records found.</td></tr>" :
                                 payments.map(item => `
@@ -1181,13 +1191,13 @@ $user_name = $_SESSION['username'];
                                         <td>${item.bill_id || 'N/A'}</td>
                                         <td>${item.customer_name || 'N/A'}</td>
                                         <td>${methodLabels[item.payment_method] || item.payment_method}</td>
-                                        <td>Rs. ${parseFloat(item.amount).toFixed(2)}</td>
+                                        <td>Rs. ${parseFloat(item.payment_amount).toFixed(2)}</td>
                                         <td>${item.card_id !== 'N/A' ? item.card_id : 'N/A'}</td>
                                         <td>${new Date(item.bill_time).toLocaleString()}</td>
-                                        <td>${new Date(item.created_at).toLocaleString()}</td>
+                                        <td>${new Date(item.payment_time).toLocaleString()}</td>
                                     </tr>
                                 `).join('');
-                                
+
                             // Add summary row if payments exist
                             if (payments.length > 0) {
                                 tableBody += `
@@ -1197,7 +1207,7 @@ $user_name = $_SESSION['username'];
                                     </tr>
                                 `;
                             }
-                            
+
                             $("#reportTableHead").html(tableHeaders);
                             $("#reportTableBody").html(tableBody);
                         })

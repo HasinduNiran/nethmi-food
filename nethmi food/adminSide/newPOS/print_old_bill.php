@@ -194,7 +194,7 @@ try {
     </head>
     <body>
         <div class="pos-bill-container">
-            <img src="../images/logo-massimo.png" alt="comp-logo" class="comp-logo">
+            <img src="../images/skl.jpeg" alt="comp-logo" class="comp-logo">
             
             <table class="bill-info-tb">
                 <tr>
