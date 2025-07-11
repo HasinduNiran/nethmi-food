@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&family=McLaren&family=Mogra&family=Nosifer&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playwrite+IT+Moderna:wght@100..400&family=Rubik+Dirt&family=Shadows+Into+Light&family=Yellowtail&display=swap");
+
+:root {
+  /* Professional Color Scheme */
+  --primary-color: #1a5f7a; /* Deep Teal - Professional, Trustworthy */
+  --secondary-color: #2c7da0; /* Muted Blue - Calm, Efficient */
+  --accent-color: #e76f51; /* Warm Terra Cotta - Inviting, Energetic */
+  --background-light: #f8f9fa; /* Soft Off-White - Clean, Neutral */
+  --text-primary: #2d3748; /* Dark Charcoal - Crisp, Readable */
+  --text-secondary: #4a5568; /* Softer Charcoal - Supporting Text */
+  --border-color: #e2e8f0; /* Light Gray - Subtle Divisions */
+  --carrot-orange: #d35400;
+
+  /* Subtle Gradient for Depth */
+  --gradient-primary: linear-gradient(135deg, #1a5f7a 0%, #2c7da0 100%);
+}
+
+.kot-container {
+  width: 100%;
+  margin: 60px auto;
+  max-width: 900px;
+  height: 95vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+
+.kot-partition {
+  width: 80mm;
+  min-height: 200px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.kot-logo {
+  width: 100%;
+}
+
+.header-kot-text {
+  display: block;
+  margin: 0 auto;
+  font-family: monospace;
+  text-align: center;
+  text-transform: capitalize;
+  margin-left: 50px;
+  font-size: 2.3em;
+}
+
+.bill-info-tb {
+  display: table;
+  margin: 20px auto;
+  width: 80%;
+  font-family: monospace;
+  text-align: center;
+  border: 1px solid black;
+  padding: 5px 10px;
+}
+
+.order-item-tb {
+  display: table;
+  margin: 0 auto;
+  width: 100%;
+  font-family: monospace;
+  text-align: left;
+  padding: 5px 10px;
+}
+
+#main-kitchen-cont,
+#outdoor-kitchen-cont {
+  font-family: monospace;
+  font-size: 2.1em;
+}
+
+.print-btn-kot {
+  position: absolute;
+  bottom: 100px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 5px 10px;
+  font-family: monospace;
+  margin-top: 20px;
+}
+
+@media print {
+  body {
+    width: 80mm !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .kot-partition {
+    width: 80mm !important;
+    min-height: 200px !important;
+    padding: 10px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+    align-items: flex-start !important;
+    margin: 20px auto !important;
+  }
+  .print-btn-kot {
+    display: none !important;
+  }
+}

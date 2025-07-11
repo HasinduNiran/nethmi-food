@@ -1,0 +1,194 @@
+/* new css desings  2024-09-10*/
+
+.iconSize {
+  font-size: 80px;
+}
+
+@media (max-width: 991px) {
+  .iconSize {
+    font-size: 150px;
+    align-items: center;
+  }
+}
+
+@media (min-width: 1000px) {
+  .cardSize {
+    width: 235px;
+    height: 200px;
+  }
+
+  .cardSizeaccount {
+    width: 370px;
+    height: 200px;
+  }
+}
+
+/* 2024/09/11 css editing */
+
+.textCss {
+  color: white;
+  font-size: 13px;
+  visibility: visible;
+  font-weight: bold;
+}
+
+@media (max-width: 990px) {
+  .textCss {
+    visibility: hidden;
+  }
+}
+
+.scleHover:hover::placeholder {
+  font-size: small;
+}
+
+.buttouncss:hover {
+  letter-spacing: 0.5px;
+  scale: 1.01;
+}
+
+.msgColor {
+  color: red;
+}
+
+
+
+.modal {
+  display: none;
+  position: absolute;
+  z-index: 11;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.modal1 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0, 0, 0, 0.5); /* Black w/ opacity */
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: left;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: end;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  width: 200px;
+}
+
+.dropdown input {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.dropdown-list {
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ccc;
+  z-index: 1;
+  display: none;
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+.dropdown-list div {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.dropdown-list div:hover {
+  background-color: #f1f1f1;
+}
+
+
+.btn-text {
+  color: white;
+  background-color: rgb(2, 82, 2);
+  padding-top: 7px;
+  padding-left: 17px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+}
+
+.btn-text-red {
+  color: white;
+  background-color: rgb(158, 0, 0);
+  border-radius: 8px;
+}
+
+.btn-text1 {
+  color: white;
+  background-color: rgb(2, 82, 2);
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 17px;
+  justify-content: center;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.form-select-hidden {
+  display: none;
+  border: 1px solid #ccc;
+  max-height: 150px;
+  overflow-y: auto;
+  position: absolute;
+  background: white;
+  z-index: 1000;
+}

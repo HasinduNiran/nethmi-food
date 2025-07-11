@@ -1,0 +1,47 @@
+* {
+  font-family: monospace;
+  font-size: 18px;
+}
+
+.pos-bill-container {
+  width: 80mm;
+  display: flex;
+  flex-direction: column;
+  margin: 30px auto;
+  min-height: 200px;
+  padding: 15px 10px;
+  font-size: 18px; 
+}
+
+.comp-logo {
+  width: 80mm;
+}
+
+.bill-contents {
+  border-collapse: collapse;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  font-size: 18px; 
+}
+
+.bill-info-tb > tr > td:nth-child(1) {
+  font-weight: 700;
+  font-size: 18px; 
+}
+
+.bill-contents > thead > tr > th {
+  text-align: center;
+  padding: 10px 0;
+  font-size: 18px; 
+}
+
+.bill-contents > tbody > tr > td:nth-child(1) {
+  padding: 4px;
+  text-align: left;
+  font-size: 18px; 
+}
+
+.bill-contents > tbody > tr > td {
+  text-align: center;
+  font-size: 18px; 
+}

@@ -1,0 +1,6 @@
+[05-Dec-2024 21:09:45 Asia/Colombo] PHP Warning:  Undefined variable $account_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/customerCrud/createCust.php on line 114
+[05-Dec-2024 21:09:45 Asia/Colombo] PHP Warning:  Undefined variable $emailErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/customerCrud/createCust.php on line 122
+[05-Dec-2024 21:09:45 Asia/Colombo] PHP Warning:  Undefined variable $phone_numberErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/customerCrud/createCust.php on line 138
+[18-Dec-2024 17:52:00 Asia/Colombo] PHP Warning:  Undefined variable $account_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/customerCrud/createCust.php on line 114
+[18-Dec-2024 17:52:00 Asia/Colombo] PHP Warning:  Undefined variable $emailErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/customerCrud/createCust.php on line 122
+[18-Dec-2024 17:52:00 Asia/Colombo] PHP Warning:  Undefined variable $phone_numberErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/customerCrud/createCust.php on line 138

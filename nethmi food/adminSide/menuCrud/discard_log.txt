@@ -1,0 +1,411 @@
+2025-05-19 07:51:18 - Received: Array
+(
+    [item_id] => 1123
+    [quantity] => 2
+    [reason] => Damaged
+)
+
+Current quantity: 94, Requested discard: 2
+Success: Item discarded successfully
+Response: {"success":true,"message":"Item discarded successfully"}
+
+2025-05-19 07:56:52 - Received: Array
+(
+    [item_id] => 1123
+    [quantity] => 2
+    [reason] => Expired
+)
+
+2025-05-19 07:56:52 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: 92, Requested discard: 2
+Success: Item discarded successfully
+Response: {"success":true,"message":"Item discarded successfully"}
+
+2025-05-19 09:40:29 - Received: Array
+(
+    [item_id] => tg
+    [quantity] => 5
+    [reason] => Expired
+)
+
+2025-05-19 09:40:29 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: 11, Requested discard: 5
+Exception: Table 'nexaraso_havok.discarded_items' doesn't exist
+Response: {"success":false,"message":"Table 'nexaraso_havok.discarded_items' doesn't exist"}
+
+2025-05-19 09:40:34 - Received: Array
+(
+    [item_id] => tg
+    [quantity] => 5
+    [reason] => Expired
+)
+
+2025-05-19 09:40:34 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: 11, Requested discard: 5
+Exception: Table 'nexaraso_havok.discarded_items' doesn't exist
+Response: {"success":false,"message":"Table 'nexaraso_havok.discarded_items' doesn't exist"}
+
+2025-05-19 09:40:43 - Received: Array
+(
+    [item_id] => tg
+    [quantity] => 5
+    [reason] => Expired
+)
+
+2025-05-19 09:40:43 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: 11, Requested discard: 5
+Exception: Table 'nexaraso_havok.discarded_items' doesn't exist
+Response: {"success":false,"message":"Table 'nexaraso_havok.discarded_items' doesn't exist"}
+
+2025-05-19 09:42:05 - Received: Array
+(
+    [item_id] => tg
+    [quantity] => 5
+    [reason] => Expired
+)
+
+2025-05-19 09:42:05 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: -6, Requested discard: 5
+Exception: Discard quantity cannot exceed available quantity
+Response: {"success":false,"message":"Discard quantity cannot exceed available quantity"}
+
+2025-05-19 09:44:11 - Received: Array
+(
+    [item_id] => sp
+    [quantity] => 5
+    [reason] => Expired
+)
+
+2025-05-19 09:44:11 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: -84, Requested discard: 5
+Exception: Discard quantity cannot exceed available quantity
+Response: {"success":false,"message":"Discard quantity cannot exceed available quantity"}
+
+2025-05-19 09:44:27 - Received: Array
+(
+    [item_id] => sp
+    [quantity] => 5
+    [reason] => Expired
+)
+
+2025-05-19 09:44:27 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: -84, Requested discard: 5
+Exception: Discard quantity cannot exceed available quantity
+Response: {"success":false,"message":"Discard quantity cannot exceed available quantity"}
+
+2025-05-19 09:44:52 - Received: Array
+(
+    [item_id] => sp
+    [quantity] => 1
+    [reason] => Damaged
+)
+
+2025-05-19 09:44:52 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: -84, Requested discard: 1
+Exception: Discard quantity cannot exceed available quantity
+Response: {"success":false,"message":"Discard quantity cannot exceed available quantity"}
+
+2025-05-19 09:46:48 - Received: Array
+(
+    [item_id] => sp
+    [quantity] => 2
+    [reason] => Expired
+)
+
+2025-05-19 09:46:48 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: -84, Requested discard: 2
+Exception: Discard quantity cannot exceed available quantity
+Response: {"success":false,"message":"Discard quantity cannot exceed available quantity"}
+
+2025-05-19 09:48:01 - Received: Array
+(
+    [item_id] => sp
+    [quantity] => 5
+    [reason] => Expired
+)
+
+2025-05-19 09:48:01 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: -84, Requested discard: 5
+Exception: Discard quantity cannot exceed available quantity
+Response: {"success":false,"message":"Discard quantity cannot exceed available quantity"}
+
+2025-05-19 09:51:21 - Received: Array
+(
+    [item_id] => sp
+    [quantity] => 3
+    [reason] => Expired
+)
+
+2025-05-19 09:51:21 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: -84, Requested discard: 3
+Exception: Discard quantity cannot exceed available quantity
+Response: {"success":false,"message":"Discard quantity cannot exceed available quantity"}
+
+2025-05-19 09:54:08 - Received: Array
+(
+    [item_id] => lol
+    [quantity] => 10
+    [reason] => Expired
+)
+
+2025-05-19 09:54:08 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: 100, Requested discard: 10
+Success: Item discarded successfully
+Response: {"success":true,"message":"Item discarded successfully"}
+
+2025-05-19 09:54:21 - Received: Array
+(
+    [item_id] => sp
+    [quantity] => 1
+    [reason] => Expired
+)
+
+2025-05-19 09:54:21 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: -84, Requested discard: 1
+Exception: Discard quantity cannot exceed available quantity
+Response: {"success":false,"message":"Discard quantity cannot exceed available quantity"}
+
+2025-05-19 09:54:39 - Received: Array
+(
+    [item_id] => lol
+    [quantity] => 80
+    [reason] => Expired
+)
+
+2025-05-19 09:54:39 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: 90, Requested discard: 80
+Success: Item discarded successfully
+Response: {"success":true,"message":"Item discarded successfully"}
+
+2025-05-19 09:54:50 - Received: Array
+(
+    [item_id] => lol
+    [quantity] => 3
+    [reason] => Expired
+)
+
+2025-05-19 09:54:50 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: 10, Requested discard: 3
+Success: Item discarded successfully
+Response: {"success":true,"message":"Item discarded successfully"}
+
+2025-05-19 09:55:49 - Received: Array
+(
+    [item_id] => Fnt1
+    [quantity] => 5
+    [reason] => Expired
+)
+
+2025-05-19 09:55:49 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: -58, Requested discard: 5
+Exception: Discard quantity cannot exceed available quantity
+Response: {"success":false,"message":"Discard quantity cannot exceed available quantity"}
+
+2025-05-19 09:57:03 - Received: Array
+(
+    [item_id] => Fnt1
+    [quantity] => 10
+    [reason] => Expired
+)
+
+2025-05-19 09:57:03 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: -58, Requested discard: 10
+Exception: Discard quantity cannot exceed available quantity
+Response: {"success":false,"message":"Discard quantity cannot exceed available quantity"}
+
+2025-05-19 09:58:03 - Received: Array
+(
+    [item_id] => 504
+    [quantity] => 20
+    [reason] => Expired
+)
+
+2025-05-19 09:58:03 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: 100, Requested discard: 20
+Success: Item discarded successfully
+Response: {"success":true,"message":"Item discarded successfully"}
+
+2025-05-19 10:01:30 - Received: Array
+(
+    [item_id] => sp
+    [quantity] => 10
+    [reason] => Expired
+)
+
+2025-05-19 10:01:30 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: -84, Requested discard: 10
+Exception: Discard quantity cannot exceed available quantity
+Response: {"success":false,"message":"Discard quantity cannot exceed available quantity"}
+
+2025-05-19 10:02:38 - Received: Array
+(
+    [item_id] => sp
+    [quantity] => 10
+    [reason] => Expired
+)
+
+2025-05-19 10:02:38 - Session: Array
+(
+    [logged_account_id] => 1
+    [logged_staff_name] => Boss-1
+    [roll] => 3
+    [username] => Boss-1
+)
+
+Using user ID: 1
+Current quantity: 100, Requested discard: 10
+Success: Item discarded successfully
+Response: {"success":true,"message":"Item discarded successfully"}
+

@@ -1,0 +1,27 @@
+[09-Jul-2025 08:15:46 Asia/Colombo] PHP Warning:  include(../includes/db_config.php): Failed to open stream: No such file or directory in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php on line 3
+[09-Jul-2025 08:15:46 Asia/Colombo] PHP Warning:  include(): Failed opening '../includes/db_config.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php on line 3
+[09-Jul-2025 08:15:46 Asia/Colombo] PHP Warning:  Undefined variable $conn in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php on line 6
+[09-Jul-2025 08:15:46 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php on line 6
+[09-Jul-2025 08:16:07 Asia/Colombo] PHP Warning:  Undefined variable $conn in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php on line 6
+[09-Jul-2025 08:16:07 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php on line 6
+[09-Jul-2025 08:17:57 Asia/Colombo] PHP Warning:  Undefined variable $conn in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php on line 6
+[09-Jul-2025 08:17:57 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php on line 6
+[09-Jul-2025 08:20:16 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.users' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php:10
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php on line 10
+[09-Jul-2025 08:24:44 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`nexaraso_nethmi`.`user_permissions`, CONSTRAINT `user_permissions_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php:56
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php(56): mysqli->query()
+#1 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/user/user_permissions.php on line 56

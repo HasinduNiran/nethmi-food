@@ -1,0 +1,310 @@
+[01-Jul-2025 23:24:53 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_vintage.cash_receipts' doesn't exist in /home/nexaraso/vintage.cafe/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/vintage.cafe/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/vintage.cafe/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/vintage.cafe/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[02-Jul-2025 15:31:44 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/vintage.cafe/config.php:7
+Stack trace:
+#0 /home/nexaraso/vintage.cafe/config.php(7): mysqli->__construct()
+#1 /home/nexaraso/vintage.cafe/adminSide/newPOS/new_order_checker.php(2): include('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/vintage.cafe/config.php on line 7
+[02-Jul-2025 15:31:44 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/vintage.cafe/adminSide/newPOS/db_config.php:8
+Stack trace:
+#0 /home/nexaraso/vintage.cafe/adminSide/newPOS/db_config.php(8): mysqli->__construct()
+#1 /home/nexaraso/vintage.cafe/adminSide/newPOS/get_dine_in_orders.php(2): require_once('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/vintage.cafe/adminSide/newPOS/db_config.php on line 8
+[02-Jul-2025 23:19:16 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_vintage.cash_receipts' doesn't exist in /home/nexaraso/vintage.cafe/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/vintage.cafe/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/vintage.cafe/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/vintage.cafe/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[05-Jul-2025 22:17:05 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[06-Jul-2025 12:30:35 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[06-Jul-2025 12:32:24 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[06-Jul-2025 17:04:33 Asia/Colombo] PHP Warning:  fsockopen(): Unable to connect to 192.168.123.100:9100 (Connection timed out) in /home/nexaraso/nethmi.rest/adminSide/newPOS/print_kot_single.php on line 94
+[06-Jul-2025 17:07:47 Asia/Colombo] PHP Warning:  fsockopen(): Unable to connect to 192.168.123.100:9100 (Connection timed out) in /home/nexaraso/nethmi.rest/adminSide/newPOS/print_kot_single.php on line 94
+[06-Jul-2025 19:21:25 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[06-Jul-2025 19:21:56 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[06-Jul-2025 19:21:58 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 20:44:53 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 20:45:08 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 20:45:16 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:06:18 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:06:50 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:08:31 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:09:52 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:10:17 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:10:21 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:10:25 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:17:41 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:17:45 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:19:07 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:20:26 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:22:25 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:22:36 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:23:32 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:23:44 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[07-Jul-2025 22:27:06 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/cash_receipts_external.php:39
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/cash_receipts_external.php(39): mysqli->prepare()
+#1 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/cash_receipts_external.php on line 39
+[07-Jul-2025 22:27:09 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/cash_receipts_external.php:39
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/cash_receipts_external.php(39): mysqli->prepare()
+#1 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/cash_receipts_external.php on line 39
+[07-Jul-2025 22:27:42 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_nethmi.cash_receipts' doesn't exist in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:165
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(165): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(420): fetchDayEndTotalExternalCash()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 165
+[08-Jul-2025 15:31:43 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/config.php:7
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/config.php(7): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/new_order_checker.php(2): include('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/config.php on line 7
+[08-Jul-2025 15:31:43 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php:8
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php(8): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/get_dine_in_orders.php(2): require_once('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php on line 8
+[08-Jul-2025 15:31:45 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php:8
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php(8): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/get_dine_in_orders.php(2): require_once('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php on line 8
+[08-Jul-2025 15:31:45 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/config.php:7
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/config.php(7): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/new_order_checker.php(2): include('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/config.php on line 7
+[08-Jul-2025 15:31:48 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php:8
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php(8): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/get_dine_in_orders.php(2): require_once('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php on line 8
+[08-Jul-2025 15:31:48 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/config.php:7
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/config.php(7): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/new_order_checker.php(2): include('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/config.php on line 7
+[10-Jul-2025 10:01:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php:8
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php(8): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/get_dine_in_orders.php(2): require_once('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php on line 8
+[10-Jul-2025 10:01:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/config.php:7
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/config.php(7): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/new_order_checker.php(2): include('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/config.php on line 7
+[10-Jul-2025 10:01:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php:8
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php(8): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/get_dine_in_orders.php(2): require_once('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php on line 8
+[10-Jul-2025 10:01:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/config.php:7
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/config.php(7): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/new_order_checker.php(2): include('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/config.php on line 7
+[10-Jul-2025 10:01:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/config.php:7
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/config.php(7): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/new_order_checker.php(2): include('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/config.php on line 7
+[10-Jul-2025 10:01:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php:8
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php(8): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/get_dine_in_orders.php(2): require_once('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php on line 8
+[10-Jul-2025 10:01:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php:8
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php(8): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/get_dine_in_orders.php(2): require_once('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php on line 8
+[10-Jul-2025 10:01:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/config.php:7
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/config.php(7): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/new_order_checker.php(2): include('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/config.php on line 7
+[10-Jul-2025 10:01:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php:8
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php(8): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/get_dine_in_orders.php(2): require_once('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/db_config.php on line 8
+[10-Jul-2025 10:01:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/nexaraso/nethmi.rest/config.php:7
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/config.php(7): mysqli->__construct()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/new_order_checker.php(2): include('/home/nexaraso/...')
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/config.php on line 7
+[10-Jul-2025 19:57:30 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM bills 
+        WHERE DATE(bill_time) = ?' at line 8 in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:81
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(81): mysqli_prepare()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(410): fetchDayEndData()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 81
+[10-Jul-2025 19:58:14 Asia/Colombo] PHP Warning:  Undefined variable $stmt in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 372
+[10-Jul-2025 19:58:14 Asia/Colombo] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:372
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(372): mysqli_stmt_bind_param()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(432): fetchPaymentMethodTotals()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 372
+[10-Jul-2025 20:21:33 Asia/Colombo] PHP Warning:  Undefined variable $stmt in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 372
+[10-Jul-2025 20:21:33 Asia/Colombo] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:372
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(372): mysqli_stmt_bind_param()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(432): fetchPaymentMethodTotals()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 372
+[10-Jul-2025 21:18:23 Asia/Colombo] PHP Warning:  Undefined variable $stmt in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 372
+[10-Jul-2025 21:18:23 Asia/Colombo] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php:372
+Stack trace:
+#0 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(372): mysqli_stmt_bind_param()
+#1 /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php(432): fetchPaymentMethodTotals()
+#2 {main}
+  thrown in /home/nexaraso/nethmi.rest/adminSide/newPOS/fetch_dayend_data2.php on line 372

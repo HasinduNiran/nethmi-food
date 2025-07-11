@@ -1,0 +1,992 @@
+[04-Dec-2024 17:15:15 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[04-Dec-2024 17:15:15 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[04-Dec-2024 17:18:17 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[04-Dec-2024 17:18:17 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[04-Dec-2024 17:26:41 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[04-Dec-2024 17:26:41 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[04-Dec-2024 17:30:48 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[04-Dec-2024 17:30:48 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 08:51:09 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 08:51:09 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 08:54:43 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 08:54:43 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 08:56:02 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 08:56:02 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 08:58:56 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 08:58:56 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:08:15 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:08:15 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:08:36 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:08:36 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:14:44 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:14:44 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:18:16 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:18:16 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:20:23 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:20:23 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:24:11 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:24:11 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:27:42 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:27:42 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:27:42 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:27:42 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:30:06 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:30:06 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:33:04 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:33:04 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:33:09 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '157' for key 'PRIMARY' in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/success_create.php:37
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/success_create.php(37): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/success_create.php on line 37
+[05-Dec-2024 09:33:13 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:33:13 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:33:41 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:33:41 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:34:07 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:34:07 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:34:52 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:34:52 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:36:47 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:36:47 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:37:55 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:37:55 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:38:24 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:38:24 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:40:33 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:40:33 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:41:47 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:41:47 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:44:25 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:44:25 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:49:54 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:49:54 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:51:27 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:51:27 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:51:35 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:51:35 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:56:03 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:56:03 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:56:24 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:56:24 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:56:35 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:56:35 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 09:57:05 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 09:57:05 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:00:02 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:00:02 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:02:29 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:02:29 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:02:36 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:02:36 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:04:07 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:04:07 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:05:20 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:05:20 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:08:49 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:08:49 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:09:30 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:09:30 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:11:17 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:11:17 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:12:12 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:12:12 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:15:28 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:15:28 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:15:57 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:15:57 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:18:35 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:18:35 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:21:16 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:21:16 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:22:58 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:22:58 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:23:35 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:23:35 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:24:57 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:24:57 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:26:37 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:26:37 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:27:27 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:27:27 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:27:46 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:27:46 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:27:46 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:27:46 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:29:50 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:29:50 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:34:31 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:34:31 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:35:55 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:35:55 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:38:03 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:38:03 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:43:55 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:43:55 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:46:56 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:46:56 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:47:06 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:47:06 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:47:14 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:47:14 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:50:33 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:50:33 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:52:15 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:52:15 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:52:33 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:52:33 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:55:07 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:55:07 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:56:29 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:56:29 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 10:56:46 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 10:56:46 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:00:02 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:00:02 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:01:42 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:01:42 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:03:51 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:03:51 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:08:17 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:08:17 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:10:58 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:10:58 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:11:14 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:11:14 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:11:57 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:11:57 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:14:22 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:14:22 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:14:48 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:14:48 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:15:42 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:15:42 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:15:46 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:15:46 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:17:03 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:17:03 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:17:05 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:17:05 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:18:09 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:18:09 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:19:24 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:19:24 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:20:26 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:20:26 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:20:36 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:20:36 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:22:00 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:22:00 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:22:33 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:22:33 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:22:42 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:22:42 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:22:58 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:22:58 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:24:36 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:24:36 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:25:48 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:25:48 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:28:34 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:28:34 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:29:39 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:29:39 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:29:42 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:29:42 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:30:41 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:30:41 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:31:02 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createsideItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:31:02 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createsideItem.php on line 47
+[05-Dec-2024 11:34:19 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:34:19 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:34:37 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:34:37 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:35:46 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:35:47 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:35:52 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:35:52 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:37:43 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:37:43 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:38:01 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:38:01 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:38:03 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:38:03 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:39:24 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:39:24 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:42:04 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:42:04 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:42:15 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:42:15 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:43:51 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:43:51 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:45:05 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:45:05 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:45:07 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:45:07 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:45:51 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:45:51 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:46:42 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:46:42 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:47:12 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:47:12 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:48:02 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:48:02 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:49:40 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:49:40 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:49:51 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:49:51 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:51:56 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:51:56 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:52:26 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:52:26 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:52:35 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:52:35 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:53:53 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:53:53 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:54:32 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:54:32 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:55:22 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:55:22 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:56:35 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:56:35 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:56:50 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:56:50 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:56:59 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:56:59 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:57:22 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:57:22 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:57:25 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:57:25 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:57:28 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:57:28 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:59:18 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:59:18 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 11:59:22 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 11:59:22 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:01:31 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:01:31 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:01:46 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:01:46 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:03:09 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:03:09 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:04:35 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:04:35 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:05:25 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:05:25 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:05:40 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:05:40 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:05:43 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:05:43 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:05:52 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:05:52 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:07:52 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:07:52 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:09:06 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:09:06 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:09:37 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:09:37 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:09:37 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:09:37 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:11:11 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:11:11 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:11:30 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:11:30 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:12:21 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:12:21 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:13:05 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:13:05 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:14:30 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:14:30 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:14:56 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:14:56 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:15:29 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:15:29 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:15:33 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:15:33 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:16:03 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:16:03 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:16:20 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:16:20 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:16:50 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:16:50 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:16:53 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:16:53 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:17:54 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:17:54 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:18:52 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:18:52 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:19:03 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:19:03 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:20:02 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:20:02 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:20:33 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:20:33 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:20:43 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:20:43 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:21:26 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:21:26 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:21:40 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:21:40 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:21:56 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:21:56 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:22:23 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:22:23 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:23:24 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:23:24 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:25:24 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:25:24 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:26:20 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:26:20 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:27:20 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:27:20 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:27:31 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:27:31 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:29:32 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:29:32 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:30:17 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:30:17 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:30:57 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:30:57 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:31:43 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:31:43 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:32:24 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:32:24 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:32:34 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:32:34 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:33:01 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:33:01 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:33:38 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:33:38 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:33:48 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:33:48 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:34:25 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:34:25 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:34:47 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:34:47 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:35:15 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:35:15 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:35:21 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:35:21 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:35:50 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:35:50 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:35:54 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:35:54 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:36:35 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:36:35 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:36:35 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:36:35 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:37:17 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:37:17 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 12:38:58 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 12:38:58 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[05-Dec-2024 15:38:38 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Menu' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItem.php:59
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItem.php(59): mysqli_query()
+#1 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItem.php on line 59
+[05-Dec-2024 21:41:29 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createsideItem.php on line 47
+[05-Dec-2024 21:41:48 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[09-Dec-2024 03:01:45 Asia/Colombo] PHP Warning:  Undefined variable $conn in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php on line 18
+[09-Dec-2024 03:01:45 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php on line 18
+[09-Dec-2024 03:03:27 Asia/Colombo] PHP Warning:  Undefined variable $conn in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php on line 18
+[09-Dec-2024 03:03:27 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php on line 18
+[09-Dec-2024 03:03:37 Asia/Colombo] PHP Warning:  Undefined variable $conn in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php on line 18
+[09-Dec-2024 03:03:37 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php on line 18
+[09-Dec-2024 03:07:09 Asia/Colombo] PHP Warning:  Undefined variable $conn in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php on line 18
+[09-Dec-2024 03:07:09 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php on line 18
+[09-Dec-2024 03:07:14 Asia/Colombo] PHP Warning:  Undefined variable $conn in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php on line 18
+[09-Dec-2024 03:07:14 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php on line 18
+[09-Dec-2024 03:07:25 Asia/Colombo] PHP Warning:  Undefined variable $conn in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php on line 18
+[09-Dec-2024 03:07:25 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php on line 18
+[09-Dec-2024 03:08:49 Asia/Colombo] PHP Warning:  require_once(../../config.php): Failed to open stream: No such file or directory in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php on line 2
+[09-Dec-2024 03:08:49 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '../../config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItemVerify.php on line 2
+[09-Dec-2024 03:12:18 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[09-Dec-2024 06:10:20 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createsideItem.php on line 47
+[09-Dec-2024 06:10:32 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[09-Dec-2024 06:11:12 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[09-Dec-2024 06:13:38 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createsideItem.php on line 47
+[09-Dec-2024 06:16:15 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createsideItem.php on line 47
+[09-Dec-2024 06:17:10 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createsideItem.php on line 47
+[09-Dec-2024 06:17:15 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[09-Dec-2024 06:18:16 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[09-Dec-2024 09:39:05 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[09-Dec-2024 09:43:30 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[09-Dec-2024 09:45:07 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[09-Dec-2024 19:02:53 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[09-Dec-2024 19:03:51 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[09-Dec-2024 19:20:33 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[09-Dec-2024 19:27:33 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[09-Dec-2024 19:28:16 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[10-Dec-2024 13:07:01 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createsideItem.php on line 47
+[14-Dec-2024 07:57:34 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Menu' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItem.php:59
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItem.php(59): mysqli_query()
+#1 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/updateItem.php on line 59
+[15-Dec-2024 11:27:12 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[15-Dec-2024 11:30:21 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[15-Dec-2024 11:30:35 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[15-Dec-2024 11:31:24 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[16-Dec-2024 01:30:09 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[16-Dec-2024 01:31:25 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[16-Dec-2024 01:34:18 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/podium.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[18-Dec-2024 16:40:15 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[18-Dec-2024 16:41:33 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[18-Dec-2024 17:04:37 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[18-Dec-2024 17:06:20 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[18-Dec-2024 17:16:45 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[22-Dec-2024 13:28:07 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[22-Dec-2024 13:28:33 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createsideItem.php on line 47
+[22-Dec-2024 13:28:48 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[22-Dec-2024 13:44:00 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createsideItem.php on line 47
+[22-Dec-2024 13:49:35 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createsideItem.php on line 47
+[22-Dec-2024 13:52:03 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[22-Dec-2024 14:10:44 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[22-Dec-2024 14:11:33 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[22-Dec-2024 22:37:51 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[22-Dec-2024 22:40:39 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createItem.php on line 47
+[22-Dec-2024 23:20:54 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.nexarasolutions.site/adminSide/menuCrud/createsideItem.php on line 47
+[24-Dec-2024 19:19:49 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 19:45:09 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 19:45:35 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 19:45:40 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 19:56:39 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 20:01:01 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 20:06:51 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 20:09:00 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 20:09:12 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 20:19:13 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 20:19:29 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 20:22:40 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 20:30:08 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 21:23:34 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 21:44:11 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 21:56:47 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 22:40:34 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[24-Dec-2024 22:54:30 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[25-Dec-2024 16:25:03 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createsideItem.php on line 47
+[25-Dec-2024 16:25:26 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[27-Dec-2024 03:09:10 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[27-Dec-2024 03:10:10 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[27-Dec-2024 13:17:00 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/havok.lk/adminSide/menuCrud/createItem.php on line 47
+[01-Jul-2025 04:40:58 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/bakery_item.php on line 367
+[01-Jul-2025 04:45:23 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/bakery_item.php on line 367
+[01-Jul-2025 04:45:38 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/bakery_item.php on line 367
+[01-Jul-2025 04:51:37 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/bakery_item.php on line 367
+[01-Jul-2025 08:45:34 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[01-Jul-2025 08:45:34 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 08:45:34 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 08:45:34 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 08:45:34 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 08:45:34 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 08:45:34 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 08:45:34 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 08:45:34 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 08:45:34 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 08:45:34 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 08:45:34 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 08:45:34 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 08:46:06 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[01-Jul-2025 08:46:06 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 08:46:06 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 08:46:06 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 08:46:06 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 08:46:06 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 08:46:06 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 08:46:06 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 08:46:06 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 08:46:06 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 08:46:06 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 08:46:06 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 08:46:06 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 09:27:18 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[01-Jul-2025 09:27:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 09:27:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 09:27:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 09:27:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 09:27:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 09:27:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 09:27:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 09:27:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 09:27:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 09:27:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 09:27:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 09:27:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 09:28:51 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[01-Jul-2025 09:28:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 09:28:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 09:28:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 09:28:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 09:28:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 09:28:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 09:28:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 09:28:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 09:28:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 09:28:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 09:28:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 09:28:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 09:39:23 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createsideItem.php on line 48
+[01-Jul-2025 14:20:54 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[01-Jul-2025 14:20:54 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 14:20:54 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 14:20:54 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 14:20:54 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 14:20:54 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 14:20:54 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 14:20:54 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 14:20:54 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 14:20:54 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 14:20:54 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 14:20:54 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 14:20:54 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 14:22:27 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[01-Jul-2025 14:22:27 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 14:22:27 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 14:22:27 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 14:22:27 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 14:22:27 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 14:22:27 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 14:22:27 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 14:22:27 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 14:22:27 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 14:22:27 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 14:22:27 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 14:22:27 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 16:58:31 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[01-Jul-2025 16:58:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 16:58:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 16:58:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 16:58:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 16:58:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 16:58:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 16:58:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 16:58:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 16:58:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 16:58:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 16:58:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 16:58:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:06:02 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[01-Jul-2025 22:06:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:06:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:06:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:06:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:06:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:06:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:06:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:06:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:06:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:06:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:06:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:06:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:09:02 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[01-Jul-2025 22:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:33:31 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[01-Jul-2025 22:33:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:33:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:33:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:33:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:33:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:33:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[01-Jul-2025 22:33:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:33:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:33:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:33:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:33:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[01-Jul-2025 22:33:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:28:56 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[02-Jul-2025 17:28:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:28:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:28:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:28:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:28:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:28:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:28:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:28:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:28:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:28:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:28:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:28:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:32:18 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[02-Jul-2025 17:32:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:32:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:32:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:32:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:32:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:32:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:32:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:32:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:32:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:32:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:32:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:32:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:33:35 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[02-Jul-2025 17:33:35 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:33:35 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:33:35 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:33:35 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:33:35 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:33:35 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 17:33:35 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:33:35 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:33:35 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:33:35 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:33:35 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 17:33:35 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 18:24:42 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[02-Jul-2025 18:24:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 18:24:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 18:24:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 18:24:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 18:24:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 18:24:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 18:24:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 18:24:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 18:24:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 18:24:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 18:24:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 18:24:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 22:14:13 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[02-Jul-2025 22:14:13 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 22:14:13 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 22:14:13 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 22:14:13 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 22:14:13 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 22:14:13 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 22:14:13 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 22:14:13 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 22:14:13 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 22:14:13 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 22:14:13 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 22:14:13 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 22:14:57 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 348
+[02-Jul-2025 22:14:57 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 22:14:57 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 22:14:57 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 22:14:57 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 22:14:57 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 22:14:57 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 680
+[02-Jul-2025 22:14:57 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 22:14:57 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 22:14:57 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 22:14:57 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 22:14:57 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[02-Jul-2025 22:14:57 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/vintage.cafe/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 18:53:37 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[05-Jul-2025 18:53:37 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 18:53:37 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 18:53:37 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 18:53:37 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 18:53:37 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 18:53:37 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 18:53:37 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 18:53:37 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 18:53:37 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 18:53:37 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 18:53:37 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 18:53:37 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 18:54:56 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[05-Jul-2025 18:54:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 18:54:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 18:54:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 18:54:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 18:54:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 18:54:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 18:54:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 18:54:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 18:54:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 18:54:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 18:54:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 18:54:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 18:55:35 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/bakery_item.php on line 367
+[05-Jul-2025 20:18:56 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[05-Jul-2025 20:18:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 20:18:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 20:18:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 20:18:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 20:18:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 20:18:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 20:18:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 20:18:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 20:18:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 20:18:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 20:18:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 20:18:56 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 20:19:23 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[05-Jul-2025 20:19:23 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 20:19:23 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 20:19:23 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 20:19:23 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 20:19:23 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 20:19:23 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 20:19:23 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 20:19:23 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 20:19:23 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 20:19:23 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 20:19:23 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 20:19:23 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 41
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 41
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 51
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 51
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 60
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 60
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 72
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 81
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 90
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 90
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 99
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 108
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 117
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 126
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 135
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 144
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 155
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 173
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 182
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 191
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 202
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 212
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 223
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 232
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 242
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 253
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:43:43 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:44:51 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[05-Jul-2025 21:44:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:44:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:44:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:44:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:44:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:44:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:44:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:44:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:44:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:44:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:44:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:44:51 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:46:07 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[05-Jul-2025 21:46:07 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:46:07 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:46:07 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:46:07 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:46:07 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:46:07 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:46:07 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:46:07 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:46:07 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:46:07 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:46:07 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:46:07 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:48:02 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[05-Jul-2025 21:48:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:48:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:48:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:48:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:48:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:48:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:48:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:48:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:48:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:48:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:48:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:48:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:48:53 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/bakery_item.php on line 367
+[05-Jul-2025 21:49:45 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[05-Jul-2025 21:49:45 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:49:45 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:49:45 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:49:45 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:49:45 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:49:45 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:49:45 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:49:45 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:49:45 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:49:45 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:49:45 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:49:45 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:50:42 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[05-Jul-2025 21:50:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:50:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:50:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:50:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:50:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:50:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:50:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:50:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:50:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:50:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:50:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:50:42 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:50:47 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[05-Jul-2025 21:50:47 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:50:47 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:50:47 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:50:47 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:50:47 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:50:47 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[05-Jul-2025 21:50:47 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:50:47 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:50:47 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:50:47 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:50:47 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:50:47 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[05-Jul-2025 21:50:51 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createsideItem.php on line 48
+[05-Jul-2025 21:51:21 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createsideItem.php on line 48
+[06-Jul-2025 19:26:25 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/bakery_item.php on line 367
+[06-Jul-2025 19:37:49 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/bakery_item.php on line 367
+[06-Jul-2025 19:37:51 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/bakery_item.php on line 367
+[06-Jul-2025 19:37:53 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/bakery_item.php on line 367
+[06-Jul-2025 19:38:23 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/bakery_item.php on line 367
+[06-Jul-2025 19:40:08 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/bakery_item.php on line 367
+[09-Jul-2025 16:27:40 UTC] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/bakery_item.php on line 367
+[10-Jul-2025 09:08:49 UTC] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/bakery_item.php on line 367
+[10-Jul-2025 11:31:03 UTC] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/bakery_item.php on line 367
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 54
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 54
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 64
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 64
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 73
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 73
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 85
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 94
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 103
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 103
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 112
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 121
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 130
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 139
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 148
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 157
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 168
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 186
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 195
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 204
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 215
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 225
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 236
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 245
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 255
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 266
+[10-Jul-2025 13:42:55 UTC] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/bakery_item.php on line 367
+[10-Jul-2025 20:08:24 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[10-Jul-2025 20:08:24 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:08:24 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:08:24 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:08:24 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:08:24 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:08:24 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:08:24 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:08:24 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:08:24 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:08:24 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:08:24 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:08:24 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:09:02 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[10-Jul-2025 20:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:09:02 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:11:31 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[10-Jul-2025 20:11:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:11:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:11:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:11:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:11:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:11:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:11:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:11:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:11:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:11:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:11:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:11:31 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:21:55 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[10-Jul-2025 20:21:55 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:21:55 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:21:55 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:21:55 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:21:55 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:21:55 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 20:21:55 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:21:55 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:21:55 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:21:55 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:21:55 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 20:21:55 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 22:11:48 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[10-Jul-2025 22:11:48 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 22:11:48 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 22:11:48 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 22:11:48 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 22:11:48 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 22:11:48 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 22:11:48 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 22:11:48 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 22:11:48 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 22:11:48 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 22:11:48 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 22:11:48 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 22:13:18 Asia/Colombo] PHP Warning:  Undefined variable $item_idErr in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 348
+[10-Jul-2025 22:13:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 22:13:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 22:13:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 22:13:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 22:13:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 22:13:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 680
+[10-Jul-2025 22:13:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 22:13:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 22:13:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 22:13:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 22:13:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040
+[10-Jul-2025 22:13:18 Asia/Colombo] PHP Warning:  Undefined array key "side_item_id" in /home/nexaraso/nethmi.rest/adminSide/menuCrud/createItem.php on line 1040

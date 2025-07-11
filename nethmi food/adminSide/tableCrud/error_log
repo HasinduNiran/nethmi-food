@@ -1,0 +1,270 @@
+[05-Dec-2024 15:51:56 Asia/Colombo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 2) in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 2
+[05-Dec-2024 15:51:56 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:15:52 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:17:18 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:17:32 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:17:53 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:19:23 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:24:16 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:24:41 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:24:41 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:25:13 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:27:31 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:27:37 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:32:27 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:32:30 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:32:34 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[09-Dec-2024 03:33:35 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Restaurant_Tables' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php:17
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(17): mysqli_query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php(24): getNextAvailableTableID()
+#2 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/createTable.php on line 17
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 38
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 38
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 47
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 47
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 47
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 47
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 55
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 55
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 55
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 55
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 55
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 55
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 64
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 64
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 64
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 64
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 73
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 73
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 73
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 73
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 73
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 73
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 82
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 82
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 82
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 82
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 82
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 82
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 91
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 91
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 91
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 91
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 91
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 91
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 100
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 100
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 109
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 109
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 109
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 109
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 109
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 109
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 118
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 118
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 118
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 118
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 118
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 118
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 128
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 128
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 128
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 128
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 128
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 128
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 137
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 137
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 137
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 137
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 137
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 137
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 146
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 146
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 146
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 146
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 146
+[16-Dec-2024 01:11:55 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 146
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 38
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 38
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 47
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 47
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 47
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 47
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 55
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 55
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 55
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 55
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 55
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 55
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 64
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 64
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 64
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 64
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 73
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 73
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 73
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 73
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 73
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 73
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 82
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 82
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 82
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 82
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 82
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 82
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 91
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 91
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 91
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 91
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 91
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 91
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 100
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 100
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 109
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 109
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 109
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 109
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 109
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 109
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 118
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 118
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 118
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 118
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 118
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 118
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 128
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 128
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 128
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 128
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 128
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 128
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 137
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 137
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 137
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 137
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 137
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 137
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 146
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 146
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 146
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 146
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Undefined global variable $_SESSION in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 146
+[16-Dec-2024 01:12:36 Asia/Colombo] PHP Warning:  Trying to access array offset on null in /home/nexaraso/podium.nexarasolutions.site/adminSide/inc/dashHeader.php on line 146
+[16-Dec-2024 01:13:41 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'table_name' in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/succ_create_table.php:14
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/succ_create_table.php(14): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/succ_create_table.php on line 14
+[16-Dec-2024 01:14:28 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'table_name' in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/succ_create_table.php:14
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/succ_create_table.php(14): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/succ_create_table.php on line 14
+[16-Dec-2024 01:14:34 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'table_name' in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/succ_create_table.php:14
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/succ_create_table.php(14): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/tableCrud/succ_create_table.php on line 14
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 41
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 41
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 51
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 51
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 60
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 60
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 72
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 81
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 90
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 90
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 99
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 108
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 117
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 126
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 135
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 144
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 155
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 173
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 182
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 191
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 202
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 212
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 223
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 232
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 242
+[06-Jul-2025 19:07:15 Asia/Colombo] PHP Warning:  Undefined array key "roll" in /home/nexaraso/nethmi.rest/adminSide/inc/dashHeader.php on line 253

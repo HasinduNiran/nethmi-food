@@ -1,0 +1,27 @@
+[12-Dec-2024 18:18:03 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Kitchen' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php:6
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php(6): mysqli->query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php(17): executeQuery()
+#2 /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php(130): getCategoryRevenue()
+#3 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php on line 6
+[15-Dec-2024 11:38:52 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Kitchen' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php:6
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php(6): mysqli->query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php(17): executeQuery()
+#2 /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php(130): getCategoryRevenue()
+#3 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php on line 6
+[16-Dec-2024 09:48:10 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nexaraso_podium.Kitchen' doesn't exist in /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php:6
+Stack trace:
+#0 /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php(6): mysqli->query()
+#1 /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php(17): executeQuery()
+#2 /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php(130): getCategoryRevenue()
+#3 {main}
+  thrown in /home/nexaraso/podium.nexarasolutions.site/adminSide/report/generate_report.php on line 6
+[10-Jul-2025 13:34:17 UTC] PHP Warning:  Undefined array key "username" in /home/nexaraso/nethmi.rest/adminSide/report/get_suppliers.php on line 5
+[10-Jul-2025 13:34:17 UTC] PHP Warning:  Undefined array key "username" in /home/nexaraso/nethmi.rest/adminSide/report/get_suppliers.php on line 5
+[10-Jul-2025 21:05:15 Asia/Colombo] PHP Warning:  Undefined array key "username" in /home/nexaraso/nethmi.rest/adminSide/report/get_suppliers.php on line 5
+[10-Jul-2025 21:05:15 Asia/Colombo] PHP Warning:  Undefined array key "username" in /home/nexaraso/nethmi.rest/adminSide/report/get_suppliers.php on line 5
+[10-Jul-2025 21:40:23 Asia/Colombo] PHP Warning:  Undefined array key "username" in /home/nexaraso/nethmi.rest/adminSide/report/get_suppliers.php on line 5
+[10-Jul-2025 21:40:23 Asia/Colombo] PHP Warning:  Undefined array key "username" in /home/nexaraso/nethmi.rest/adminSide/report/get_suppliers.php on line 5

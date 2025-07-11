@@ -1,0 +1,78 @@
+
+----- 2025-03-25 08:58:03 -----
+Request for item_id: 111, hotel_type: 1
+Item not found in menu table, checking bakery_menu_stocks
+Item found. has_portions=false
+Final has_portions value: false
+Response: {"item_id":"111","item_name":"dssdsdds","item_category":null,"has_portions":false,"display_price":"1000.00"}
+
+----- 2025-03-25 08:58:25 -----
+Request for item_id: 111, hotel_type: 7
+Item not found in menu table, checking bakery_menu_stocks
+Item found. has_portions=false
+Final has_portions value: false
+Response: {"item_id":"111","item_name":"dssdsdds","item_category":null,"has_portions":false,"display_price":"1100.00"}
+
+----- 2025-03-25 09:01:40 -----
+Request for item_id: 111, hotel_type: 1
+Item not found in menu table, checking bakery_menu_stocks
+Item found. has_portions=false
+Final has_portions value: false
+Response: {"item_id":"111","item_name":"dssdsdds","item_category":null,"has_portions":false,"display_price":"1000.00"}
+
+----- 2025-03-25 09:02:00 -----
+Request for item_id: TE001, hotel_type: 1
+Item found in menu table
+Item found. has_portions=true
+Valid portions: 0 (regular: no, medium: no, large: no)
+Setting has_portions to false due to <= 1 valid portions
+Final has_portions value: false
+Response: {"item_id":"TE001","item_name":"Ceylon Tea","item_category":"Drinks","has_portions":false,"regular_price":"0.00","medium_price":"0.00","large_price":"0.00","display_price":"0.00"}
+
+----- 2025-03-25 09:02:19 -----
+Request for item_id: TE001, hotel_type: 1
+Item found in menu table
+Item found. has_portions=true
+Valid portions: 1 (regular: no, medium: yes, large: no)
+Setting has_portions to false due to <= 1 valid portions
+Final has_portions value: false
+Response: {"item_id":"TE001","item_name":"Ceylon Tea","item_category":"Drinks","has_portions":false,"regular_price":"0.00","medium_price":"500.00","large_price":"0.00","display_price":"0.00"}
+
+----- 2025-03-25 09:02:47 -----
+Request for item_id: TE001, hotel_type: 1
+Item found in menu table
+Item found. has_portions=true
+Valid portions: 1 (regular: no, medium: yes, large: no)
+Final has_portions value: true
+Response: {"item_id":"TE001","item_name":"Ceylon Tea","item_category":"Drinks","has_portions":true,"regular_price":"0.00","medium_price":"500.00","large_price":"0.00","display_price":"0.00"}
+
+----- 2025-03-25 09:02:55 -----
+Request for item_id: 111, hotel_type: 1
+Item not found in menu table, checking bakery_menu_stocks
+Item found. has_portions=false
+Final has_portions value: false
+Response: {"item_id":"111","item_name":"dssdsdds","item_category":null,"has_portions":false,"display_price":"1000.00"}
+
+----- 2025-03-26 04:12:35 -----
+Request for item_id: tf56, hotel_type: 1
+Item found in menu table
+Item found. has_portions=true
+Valid portions: 3 (regular: yes, medium: yes, large: yes)
+Final has_portions value: true
+Response: {"item_id":"tf56","item_name":"test food","item_category":"Main Dishes","has_portions":true,"regular_price":"5000.00","medium_price":"5500.00","large_price":"6000.00","display_price":"5000.00"}
+
+----- 2025-03-26 04:28:03 -----
+Request for item_id: tf56, hotel_type: 1
+Item found in menu table
+Item found. has_portions=true
+Valid portions: 3 (regular: yes, medium: yes, large: yes)
+Final has_portions value: true
+Response: {"item_id":"tf56","item_name":"test food","item_category":"Main Dishes","has_portions":true,"regular_price":"5000.00","medium_price":"5500.00","large_price":"6000.00","display_price":"5000.00"}
+
+----- 2025-03-26 04:28:22 -----
+Request for item_id: tf56, hotel_type: 1
+Item found in menu table
+Item found. has_portions=true
+Valid portions: 3 (regular: yes, medium: yes, large: yes)
+Final has_portions value: true
+Response: {"item_id":"tf56","item_name":"test food","item_category":"Main Dishes","has_portions":true,"regular_price":"5000.00","medium_price":"5500.00","large_price":"6000.00","display_price":"5000.00"}
