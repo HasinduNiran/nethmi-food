@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
-$username = 'nexaraso_nethmi';
-$password = 'nexaraso_nethmi';
+$username = 'root';
+$password = '';
 $database = 'nexaraso_nethmi';
 
 // Create connection
